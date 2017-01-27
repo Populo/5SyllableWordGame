@@ -19,7 +19,9 @@ probability
 verification
 complementation 
 1/27
-
-
-
+Professorial
+Nondeterministic
+Deterministic 
+Intuitively 
+non-determinism
 

@@ -24,4 +24,7 @@ Nondeterministic
 Deterministic 
 Intuitively 
 non-determinism
+1/30
+Transitivity
+Obfuscatory
 
